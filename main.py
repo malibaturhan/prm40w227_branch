@@ -1,1 +1,1 @@
-print("hello world")
+print("galatasaray the loser")

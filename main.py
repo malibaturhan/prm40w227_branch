@@ -1,1 +1,1 @@
-print("galatasaray the goat")
+print("galatasaray the loser")
